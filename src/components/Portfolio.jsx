@@ -36,7 +36,7 @@ const Portfolio = () => {
     {
       id: 6,
       src: reactWeather,
-      // codeLink: "https://github.com/your-username/project-6",
+      codeLink: "https://github.com/shashankmishra4702/Portfolio",
     },
   ];
 
