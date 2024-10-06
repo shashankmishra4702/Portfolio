@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          As a third-year Computer Science undergraduate student, I am passionate about coding and continuously strive to enhance my skills. With a focus on MERN stack development, I have successfully completed multiple projects, honing my abilities in both frontend and backend web development. Additionally, I possess a strong understanding of machine learning and am actively exploring the realm of blockchain technology. I aim to leverage my knowledge and expertise to contribute meaningfully to the field of technology, embracing new challenges with enthusiasm and a drive for excellence.
+          As a fourth-year Computer Science undergraduate student, I am passionate about coding and continuously strive to enhance my skills. With a focus on MERN stack development, I have successfully completed multiple projects, honing my abilities in both frontend and backend web development. Additionally, I possess a strong understanding of machine learning and am actively exploring the realm of blockchain technology. I aim to leverage my knowledge and expertise to contribute meaningfully to the field of technology, embracing new challenges with enthusiasm and a drive for excellence.
         </p>
 
         <br />
